@@ -1,7 +1,7 @@
 # Decrypting Cryptocurrencies through Natural Language Processing (NLP)
 
 The Natural Language Processing techniques employed below were done so for the purposes of sentiment analysis; what are articles saying about different cryptocurrencies?  What is the current public sentiment surrounding these coins?  NewsApi and NLTK (Natural Language Tool Kit) library utilized.
-![sentiment](https://www.disruptivestatic.com/wp-content/uploads/2019/07/SENTIMENT.jpg)
+![sentiment](https://www.marketmotive.com/market_motive/sentiment-analysis.jpg)
 
 ---
 
